@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+  <rect width="800" height="420" fill="white"/>
+  <text x="400" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#1F2937">2025年各国消费者AI理财使用率</text>
+  <text x="400" y="400" text-anchor="middle" font-size="11" fill="#9CA3AF">数据来源：J.D.Power、劳埃德银行、清华五道口金融学院</text>
+  <!-- Y axis grid -->
+  <line x1="350" y1="80" x2="350" y2="350" stroke="#E5E7EB"/>
+  <line x1="350" y1="80" x2="750" y2="80" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="350" y1="148" x2="750" y2="148" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="350" y1="216" x2="750" y2="216" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="350" y1="284" x2="750" y2="284" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="350" y1="350" x2="750" y2="350" stroke="#E5E7EB"/>
+  <!-- Labels: 0% to 70%, step ~17%, 1%=~3.857px -->
+  <text x="342" y="354" text-anchor="end" font-size="11" fill="#6B7280">0%</text>
+  <text x="342" y="288" text-anchor="end" font-size="11" fill="#6B7280">17%</text>
+  <text x="342" y="220" text-anchor="end" font-size="11" fill="#6B7280">34%</text>
+  <text x="342" y="152" text-anchor="end" font-size="11" fill="#6B7280">51%</text>
+  <text x="342" y="84" text-anchor="end" font-size="11" fill="#6B7280">70%</text>
+  <!-- Bars: scale 1% = 3.857px from baseline 350 -->
+  <!-- 美国 51% => 196.7px -->
+  <rect x="370" y="153.29299999999998" width="120" height="196.70700000000002" rx="5" fill="#3B82F6"/>
+  <text x="430" y="145.29299999999998" text-anchor="middle" font-size="15" font-weight="bold" fill="#3B82F6">51%</text>
+  <text x="340" y="256.6465" text-anchor="end" font-size="12" fill="#374151">美国消费者</text>
+  <!-- 英国 56% -->
+  <rect x="520" y="134.00799999999998" width="120" height="215.99200000000002" rx="5" fill="#8B5CF6"/>
+  <text x="580" y="126.00799999999998" text-anchor="middle" font-size="15" font-weight="bold" fill="#8B5CF6">56%</text>
+  <text x="340" y="247.004" text-anchor="end" font-size="12" fill="#374151">英国成年人</text>
+  <!-- 中国 40% -->
+  <rect x="670" y="195.72" width="80" height="154.28" rx="5" fill="#10B981"/>
+  <text x="710" y="187.72" text-anchor="middle" font-size="15" font-weight="bold" fill="#10B981">40%+</text>
+  <text x="340" y="277.86" text-anchor="end" font-size="12" fill="#374151">中国投资者</text>
+</svg>
