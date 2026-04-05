@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 24px sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 14px sans-serif; fill: #666; }
+    .line-label { font: bold 14px sans-serif; }
+    .axis-label { font: 12px sans-serif; fill: #999; }
+    .value-label { font: 11px sans-serif; fill: #666; }
+    .legend { font: 14px sans-serif; fill: #666; }
+  </style>
+  
+  <!-- 背景 -->
+  <rect width="900" height="500" fill="#fafafa"/>
+  
+  <!-- 标题 -->
+  <text x="450" y="35" text-anchor="middle" class="title">国产 AI 工具月活增长趋势</text>
+  <text x="450" y="60" text-anchor="middle" class="subtitle">2025年1月-12月（单位：亿）</text>
+  
+  <!-- 坐标轴 -->
+  <line x1="100" y1="400" x2="850" y2="400" stroke="#e0e0e0" stroke-width="2"/>
+  <line x1="100" y1="100" x2="100" y2="400" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Y 轴刻度 -->
+  <text x="90" y="405" text-anchor="end" class="axis-label">0</text>
+  <text x="90" y="325" text-anchor="end" class="axis-label">0.5</text>
+  <text x="90" y="250" text-anchor="end" class="axis-label">1.0</text>
+  <text x="90" y="175" text-anchor="end" class="axis-label">1.5</text>
+  <text x="90" y="105" text-anchor="end" class="axis-label">2.0</text>
+  
+  <!-- X 轴标签 -->
+  <text x="150" y="425" text-anchor="middle" class="axis-label">1月</text>
+  <text x="300" y="425" text-anchor="middle" class="axis-label">4月</text>
+  <text x="450" y="425" text-anchor="middle" class="axis-label">6月</text>
+  <text x="600" y="425" text-anchor="middle" class="axis-label">9月</text>
+  <text x="750" y="425" text-anchor="middle" class="axis-label">12月</text>
+  
+  <!-- 豆包增长线 -->
+  <polyline fill="none" stroke="#FF6B6B" stroke-width="3" 
+    points="150,257 300,207 450,167 600,137 750,107"/>
+  <circle cx="150" cy="257" r="5" fill="#FF6B6B"/>
+  <circle cx="300" cy="207" r="5" fill="#FF6B6B"/>
+  <circle cx="450" cy="167" r="5" fill="#FF6B6B"/>
+  <circle cx="600" cy="137" r="5" fill="#FF6B6B"/>
+  <circle cx="750" cy="107" r="5" fill="#FF6B6B"/>
+  <text x="765" y="107" class="value-label">2.27亿</text>
+  
+  <!-- DeepSeek 增长线 -->
+  <polyline fill="none" stroke="#4ECDC4" stroke-width="3" 
+    points="150,207 300,157 450,137 600,147 750,157"/>
+  <circle cx="150" cy="207" r="5" fill="#4ECDC4"/>
+  <circle cx="300" cy="157" r="5" fill="#4ECDC4"/>
+  <circle cx="450" cy="137" r="5" fill="#4ECDC4"/>
+  <circle cx="600" cy="147" r="5" fill="#4ECDC4"/>
+  <circle cx="750" cy="157" r="5" fill="#4ECDC4"/>
+  <text x="765" y="157" class="value-label">1.36亿</text>
+  
+  <!-- 元宝增长线 -->
+  <polyline fill="none" stroke="#95E1D3" stroke-width="3" 
+    points="150,335 300,285 450,235 600,175 750,127"/>
+  <circle cx="150" cy="335" r="5" fill="#95E1D3"/>
+  <circle cx="300" cy="285" r="5" fill="#95E1D3"/>
+  <circle cx="450" cy="235" r="5" fill="#95E1D3"/>
+  <circle cx="600" cy="175" r="5" fill="#95E1D3"/>
+  <circle cx="750" cy="127" r="5" fill="#95E1D3"/>
+  <text x="765" y="127" class="value-label">1.14亿</text>
+  
+  <!-- 图例 -->
+  <rect x="550" y="450" width="20" height="10" fill="#FF6B6B"/>
+  <text x="580" y="460" class="legend">豆包 (+126%)</text>
+  
+  <rect x="650" y="450" width="20" height="10" fill="#4ECDC4"/>
+  <text x="680" y="460" class="legend">DeepSeek</text>
+  
+  <rect x="750" y="450" width="20" height="10" fill="#95E1D3"/>
+  <text x="780" y="460" class="legend">元宝 (最快)</text>
+  
+  <!-- 数据来源 -->
+  <text x="450" y="480" text-anchor="middle" class="legend">数据来源: QuestMobile, SCMP (2025)</text>
+</svg>
