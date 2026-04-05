@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 24px sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 14px sans-serif; fill: #666; }
+    .bar-label { font: 14px sans-serif; fill: #1a1a1a; }
+    .bar-value { font: bold 16px sans-serif; fill: white; }
+    .legend { font: 14px sans-serif; fill: #666; }
+  </style>
+  
+  <!-- 背景 -->
+  <rect width="800" height="450" fill="#fafafa"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="35" text-anchor="middle" class="title">中国搜索引擎市场份额（2025.3）</text>
+  <text x="400" y="60" text-anchor="middle" class="subtitle">全平台数据</text>
+  
+  <!-- 百度 -->
+  <rect x="100" y="100" width="410" height="60" fill="#3F51B5" rx="8"/>
+  <text x="120" y="138" class="bar-value">百度 50.89%</text>
+  <text x="520" y="138" style="font: 12px sans-serif; fill: #666;">↘️ 持续下降</text>
+  
+  <!-- 必应 -->
+  <rect x="100" y="180" width="160" height="60" fill="#2196F3" rx="8"/>
+  <text x="120" y="218" class="bar-value">必应 19.87%</text>
+  <text x="270" y="218" style="font: 12px sans-serif; fill: #666;">PC端强势</text>
+  
+  <!-- 好搜 -->
+  <rect x="100" y="260" width="125" height="60" fill="#FF9800" rx="8"/>
+  <text x="120" y="298" class="bar-value">好搜 15.51%</text>
+  <text x="235" y="298" style="font: 12px sans-serif; fill: #666;">→ 稳定</text>
+  
+  <!-- 其他 -->
+  <rect x="100" y="340" width="110" height="60" fill="#9E9E9E" rx="8"/>
+  <text x="120" y="378" class="bar-value">其他 13.73%</text>
+  
+  <!-- 关键发现 -->
+  <rect x="550" y="180" width="200" height="120" fill="#FFF3E0" stroke="#FF9800" stroke-width="2" rx="8"/>
+  <text x="650" y="210" text-anchor="middle" style="font: bold 14px sans-serif; fill: #E65100;">⚠️ 关键发现</text>
+  <text x="650" y="235" text-anchor="middle" style="font: 12px sans-serif; fill: #666;">百度份额持续下降</text>
+  <text x="650" y="255" text-anchor="middle" style="font: 12px sans-serif; fill: #666;">小红书搜索接近百度</text>
+  <text x="650" y="275" text-anchor="middle" style="font: 12px sans-serif; fill: #666;">日均 6亿次 vs 10亿次</text>
+  
+  <!-- 数据来源 -->
+  <text x="400" y="435" text-anchor="middle" class="legend">数据来源: StatCounter (2025.3)</text>
+</svg>
