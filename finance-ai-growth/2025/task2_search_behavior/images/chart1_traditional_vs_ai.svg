@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 24px sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 14px sans-serif; fill: #666; }
+    .bar-label { font: bold 16px sans-serif; fill: #1a1a1a; }
+    .bar-value { font: 18px sans-serif; fill: white; }
+    .legend { font: 14px sans-serif; fill: #666; }
+    .axis-label { font: 12px sans-serif; fill: #999; }
+  </style>
+  
+  <!-- 背景 -->
+  <rect width="800" height="400" fill="#fafafa"/>
+  
+  <!-- 标题 -->
+  <text x="400" y="35" text-anchor="middle" class="title">传统搜索引擎 vs AI 工具增速对比</text>
+  <text x="400" y="60" text-anchor="middle" class="subtitle">2024.4-2025.3 同比增长率</text>
+  
+  <!-- 坐标轴 -->
+  <line x1="100" y1="320" x2="700" y2="320" stroke="#e0e0e0" stroke-width="2"/>
+  <line x1="100" y1="100" x2="100" y2="320" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- 刻度线 -->
+  <text x="90" y="325" text-anchor="end" class="axis-label">0%</text>
+  <text x="90" y="240" text-anchor="end" class="axis-label">25%</text>
+  <text x="90" y="160" text-anchor="end" class="axis-label">50%</text>
+  <text x="90" y="100" text-anchor="end" class="axis-label">75%</text>
+  
+  <!-- 传统搜索引擎（下降） -->
+  <rect x="200" y="322" width="120" height="8" fill="#ef5350" rx="4"/>
+  <text x="260" y="350" text-anchor="middle" class="bar-label">传统搜索引擎</text>
+  <text x="260" y="318" text-anchor="middle" style="font: bold 20px sans-serif; fill: #ef5350;">-0.51%</text>
+  
+  <!-- AI 工具（增长） -->
+  <rect x="480" y="118" width="120" height="202" fill="#4CAF50" rx="4"/>
+  <text x="540" y="350" text-anchor="middle" class="bar-label">AI 搜索工具</text>
+  <text x="540" y="225" text-anchor="middle" style="font: bold 24px sans-serif; fill: white;">+80.92%</text>
+  
+  <!-- 对比箭头 -->
+  <path d="M 340 260 L 460 260" stroke="#2196F3" stroke-width="3" stroke-dasharray="5,5"/>
+  <polygon points="455,255 465,260 455,265" fill="#2196F3"/>
+  <text x="400" y="250" text-anchor="middle" style="font: bold 16px sans-serif; fill: #2196F3;">160 倍差距</text>
+  
+  <!-- 数据来源 -->
+  <text x="400" y="385" text-anchor="middle" class="legend">数据来源: Grand View Research, ALM Corp (2025)</text>
+</svg>
