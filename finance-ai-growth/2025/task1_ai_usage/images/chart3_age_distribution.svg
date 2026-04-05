@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="white"/>
+  <text x="300" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#1F2937">中国生成式AI用户年龄分布（2025年6月）</text>
+  <text x="300" y="435" text-anchor="middle" font-size="11" fill="#9CA3AF">数据来源：CNNIC《生成式人工智能应用发展报告（2025）》</text>
+  <!-- Pie chart using conic-gradient approximation with paths -->
+  <!-- 19岁及以下 33.8% (0-121.68deg), 20-29岁 21.0% (121.68-197.28deg), 30-39岁 19.8% (197.28-268.56deg), 40岁及以上 25.4% (268.56-360deg) -->
+  <g transform="translate(300,230)">
+    <!-- 19岁及以下 33.8% -->
+    <path d="M0,0 L0,-140 A140,140 0 0,1 119.6,-71.7 Z" fill="#60A5FA"/>
+    <!-- 20-29岁 21.0% -->
+    <path d="M0,0 L119.6,-71.7 A140,140 0 0,1 112.5,83.3 Z" fill="#34D399"/>
+    <!-- 30-39岁 19.8% -->
+    <path d="M0,0 L112.5,83.3 A140,140 0 0,1 -38.6,134.5 Z" fill="#FBBF24"/>
+    <!-- 40岁及以上 25.4% -->
+    <path d="M0,0 L-38.6,134.5 A140,140 0 0,1 0,-140 Z" fill="#F87171"/>
+    <!-- Center circle for donut -->
+    <circle cx="0" cy="0" r="60" fill="white"/>
+    <text x="0" y="5" text-anchor="middle" font-size="16" font-weight="bold" fill="#374151">5.15亿</text>
+    <text x="0" y="22" text-anchor="middle" font-size="11" fill="#6B7280">用户总数</text>
+  </g>
+  <!-- Legend -->
+  <rect x="30" y="80" width="12" height="12" fill="#60A5FA" rx="2"/><text x="48" y="91" font-size="12" fill="#374151">19岁及以下 33.8%</text>
+  <rect x="30" y="105" width="12" height="12" fill="#34D399" rx="2"/><text x="48" y="116" font-size="12" fill="#374151">20-29岁 21.0%</text>
+  <rect x="30" y="130" width="12" height="12" fill="#FBBF24" rx="2"/><text x="48" y="141" font-size="12" fill="#374151">30-39岁 19.8%</text>
+  <rect x="30" y="155" width="12" height="12" fill="#F87171" rx="2"/><text x="48" y="166" font-size="12" fill="#374151">40岁及以上 25.4%</text>
+</svg>
