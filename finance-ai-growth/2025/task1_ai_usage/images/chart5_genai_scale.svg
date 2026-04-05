@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450">
+  <rect width="700" height="450" fill="white"/>
+  <text x="350" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#1F2937">中国生成式AI用户规模增长</text>
+  <text x="350" y="420" text-anchor="middle" font-size="11" fill="#9CA3AF">数据来源：CNNIC、QuestMobile综合整理</text>
+  <line x1="120" y1="370" x2="600" y2="370" stroke="#E5E7EB"/>
+  <!-- Scale: 0-7亿, 1亿=42.8px, baseline 370 -->
+  <!-- 2024年底 3.05亿 => 130.5px -->
+  <rect x="160" y="239.46" width="100" height="130.54" rx="6" fill="#93C5FD"/>
+  <text x="210" y="229.46" text-anchor="middle" font-size="14" font-weight="bold" fill="#3B82F6">3.05亿</text>
+  <text x="210" y="395" text-anchor="middle" font-size="12" fill="#374151">2024年底</text>
+  <!-- 2025年6月 5.15亿 -->
+  <rect x="320" y="149.58" width="100" height="220.42" rx="6" fill="#6EE7B7"/>
+  <text x="370" y="139.58" text-anchor="middle" font-size="14" font-weight="bold" fill="#059669">5.15亿</text>
+  <text x="370" y="395" text-anchor="middle" font-size="12" fill="#374151">2025年6月</text>
+  <!-- 2025年12月 6.02亿 -->
+  <rect x="480" y="112.34400000000005" width="100" height="257.65599999999995" rx="6" fill="#34D399"/>
+  <text x="530" y="102.34400000000005" text-anchor="middle" font-size="14" font-weight="bold" fill="#059669">6.02亿</text>
+  <text x="530" y="395" text-anchor="middle" font-size="12" fill="#374151">2025年12月</text>
+  <!-- Growth arrow annotation -->
+  <text x="350" y="310" text-anchor="middle" font-size="12" fill="#6B7280">普及率 21.7% → 36.5% → 42.8%</text>
+</svg>
