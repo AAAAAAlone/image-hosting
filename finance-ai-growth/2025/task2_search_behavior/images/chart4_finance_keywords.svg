@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 24px sans-serif; fill: #1a1a1a; }
+    .subtitle { font: 14px sans-serif; fill: #666; }
+    .keyword { font: 14px sans-serif; fill: #1a1a1a; }
+    .trend { font: 12px sans-serif; fill: #666; }
+    .legend { font: 14px sans-serif; fill: #666; }
+  </style>
+  
+  <!-- 背景 -->
+  <rect width="900" height="600" fill="#fafafa"/>
+  
+  <!-- 标题 -->
+  <text x="450" y="35" text-anchor="middle" class="title">热门理财关键词 TOP 10（2025）</text>
+  <text x="450" y="60" text-anchor="middle" class="subtitle">蚂蚁财富×小红书年度理财关键词投票</text>
+  
+  <!-- TOP 1: 黄金投资 -->
+  <rect x="100" y="90" width="700" height="40" fill="#FFD700" opacity="0.8" rx="4"/>
+  <text x="110" y="117" class="keyword">1. 黄金投资</text>
+  <text x="280" y="117" style="font: 18px sans-serif;">🔥🔥🔥🔥🔥</text>
+  <text x="420" y="117" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️↗️ 暴涨</text>
+  <text x="550" y="117" class="trend">百度/小红书/豆包</text>
+  
+  <!-- TOP 2: 理财产品 -->
+  <rect x="100" y="140" width="680" height="40" fill="#C0C0C0" opacity="0.6" rx="4"/>
+  <text x="110" y="167" class="keyword">2. 理财产品</text>
+  <text x="280" y="167" style="font: 18px sans-serif;">🔥🔥🔥🔥🔥</text>
+  <text x="420" y="167" style="font: bold 14px sans-serif; fill: #2196F3;">→ 稳定</text>
+  <text x="550" y="167" class="trend">百度/微信搜一搜</text>
+  
+  <!-- TOP 3: 存款搬家 -->
+  <rect x="100" y="190" width="660" height="40" fill="#CD7F32" opacity="0.6" rx="4"/>
+  <text x="110" y="217" class="keyword">3. 存款搬家</text>
+  <text x="280" y="217" style="font: 18px sans-serif;">🔥🔥🔥🔥</text>
+  <text x="420" y="217" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️ 热门</text>
+  <text x="550" y="217" class="trend">小红书/豆包</text>
+  
+  <!-- TOP 4: 基金定投 -->
+  <rect x="100" y="240" width="640" height="40" fill="#E0E0E0" opacity="0.6" rx="4"/>
+  <text x="110" y="267" class="keyword">4. 基金定投</text>
+  <text x="280" y="267" style="font: 18px sans-serif;">🔥🔥🔥🔥</text>
+  <text x="420" y="267" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️ 回升</text>
+  <text x="550" y="267" class="trend">百度/DeepSeek</text>
+  
+  <!-- TOP 5: 沪深300ETF -->
+  <rect x="100" y="290" width="620" height="40" fill="#E0E0E0" opacity="0.6" rx="4"/>
+  <text x="110" y="317" class="keyword">5. 沪深300ETF</text>
+  <text x="280" y="317" style="font: 18px sans-serif;">🔥🔥🔥🔥</text>
+  <text x="420" y="317" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️↗️ 暴涨</text>
+  <text x="550" y="317" class="trend">同花顺/百度</text>
+  
+  <!-- TOP 6: A股慢牛 -->
+  <rect x="100" y="340" width="600" height="40" fill="#E0E0E0" opacity="0.6" rx="4"/>
+  <text x="110" y="367" class="keyword">6. A股慢牛</text>
+  <text x="280" y="367" style="font: 18px sans-serif;">🔥🔥🔥</text>
+  <text x="420" y="367" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️</text>
+  <text x="550" y="367" class="trend">微博/百度</text>
+  
+  <!-- TOP 7: 固收+理财 -->
+  <rect x="100" y="390" width="580" height="40" fill="#E0E0E0" opacity="0.6" rx="4"/>
+  <text x="110" y="417" class="keyword">7. 固收+理财</text>
+  <text x="280" y="417" style="font: 18px sans-serif;">🔥🔥🔥</text>
+  <text x="420" y="417" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️</text>
+  <text x="550" y="417" class="trend">百度/银行App</text>
+  
+  <!-- TOP 8: 黄金ETF -->
+  <rect x="100" y="440" width="560" height="40" fill="#E0E0E0" opacity="0.6" rx="4"/>
+  <text x="110" y="467" class="keyword">8. 黄金ETF</text>
+  <text x="280" y="467" style="font: 18px sans-serif;">🔥🔥🔥</text>
+  <text x="420" y="467" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️↗️</text>
+  <text x="550" y="467" class="trend">东方财富/百度</text>
+  
+  <!-- TOP 9: AI理财助手（高亮） -->
+  <rect x="100" y="490" width="700" height="40" fill="#E3F2FD" stroke="#2196F3" stroke-width="2" rx="4"/>
+  <text x="110" y="517" style="font: bold 14px sans-serif; fill: #1976D2;">9. AI理财助手 ⭐ 新兴</text>
+  <text x="280" y="517" style="font: 18px sans-serif;">🔥🔥🔥</text>
+  <text x="420" y="517" style="font: bold 14px sans-serif; fill: #4CAF50;">↗️↗️↗️ 新兴</text>
+  <text x="550" y="517" style="font: 12px sans-serif; fill: #1976D2;">豆包/DeepSeek</text>
+  
+  <!-- 数据来源 -->
+  <text x="450" y="570" text-anchor="middle" class="legend">数据来源: 蚂蚁财富×小红书年度理财关键词投票 (2025)</text>
+</svg>
