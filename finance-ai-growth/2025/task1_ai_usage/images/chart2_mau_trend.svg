@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520">
+  <rect width="820" height="520" fill="white"/>
+  <text x="410" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#1F2937">2025年国产AI工具MAU增长趋势</text>
+  <text x="410" y="500" text-anchor="middle" font-size="11" fill="#9CA3AF">数据来源：QuestMobile、DataReportal等多源综合整理</text>
+  <!-- Grid -->
+  <line x1="120" y1="430" x2="780" y2="430" stroke="#E5E7EB"/>
+  <line x1="120" y1="360" x2="780" y2="360" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="120" y1="290" x2="780" y2="290" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="120" y1="220" x2="780" y2="220" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="120" y1="150" x2="780" y2="150" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <line x1="120" y1="80" x2="780" y2="80" stroke="#E5E7EB" stroke-dasharray="4"/>
+  <text x="110" y="434" text-anchor="end" font-size="11" fill="#6B7280">0</text>
+  <text x="110" y="364" text-anchor="end" font-size="11" fill="#6B7280">5000万</text>
+  <text x="110" y="294" text-anchor="end" font-size="11" fill="#6B7280">1亿</text>
+  <text x="110" y="224" text-anchor="end" font-size="11" fill="#6B7280">1.5亿</text>
+  <text x="110" y="154" text-anchor="end" font-size="11" fill="#6B7280">2亿</text>
+  <text x="110" y="84" text-anchor="end" font-size="11" fill="#6B7280">2.5亿</text>
+  <!-- Month labels -->
+  <text x="180" y="455" text-anchor="middle" font-size="12" fill="#6B7280">1月</text>
+  <text x="300" y="455" text-anchor="middle" font-size="12" fill="#6B7280">3月</text>
+  <text x="420" y="455" text-anchor="middle" font-size="12" fill="#6B7280">5月</text>
+  <text x="540" y="455" text-anchor="middle" font-size="12" fill="#6B7280">7月</text>
+  <text x="620" y="455" text-anchor="middle" font-size="12" fill="#6B7280">8月</text>
+  <text x="740" y="455" text-anchor="middle" font-size="12" fill="#6B7280">12月</text>
+  <polyline points="180,332 300,283 420,262 540,233.99999999999997 620,210.2 740,113.59999999999997" fill="none" stroke="#3B82F6" stroke-width="3"/><text x="700" y="101.59999999999997" font-size="13" fill="#3B82F6" font-weight="bold">豆包</text><circle cx="180" cy="332" r="5" fill="#3B82F6"/><circle cx="300" cy="283" r="5" fill="#3B82F6"/><circle cx="420" cy="262" r="5" fill="#3B82F6"/><circle cx="540" cy="233.99999999999997" r="5" fill="#3B82F6"/><circle cx="620" cy="210.2" r="5" fill="#3B82F6"/><circle cx="740" cy="113.59999999999997" r="5" fill="#3B82F6"/>
+  <polyline points="180,382.82 300,332 420,304 540,262 620,248 740,241" fill="none" stroke="#8B5CF6" stroke-width="3"/><text x="700" y="229" font-size="13" fill="#8B5CF6" font-weight="bold">DeepSeek</text><circle cx="180" cy="382.82" r="5" fill="#8B5CF6"/><circle cx="300" cy="332" r="5" fill="#8B5CF6"/><circle cx="420" cy="304" r="5" fill="#8B5CF6"/><circle cx="540" cy="262" r="5" fill="#8B5CF6"/><circle cx="620" cy="248" r="5" fill="#8B5CF6"/><circle cx="740" cy="241" r="5" fill="#8B5CF6"/>
+  <polyline points="180,425.8 300,421.6 420,413.2 540,402 620,390.8 740,372.6" fill="none" stroke="#10B981" stroke-width="3"/><text x="700" y="360.6" font-size="13" fill="#10B981" font-weight="bold">元宝</text><circle cx="180" cy="425.8" r="5" fill="#10B981"/><circle cx="300" cy="421.6" r="5" fill="#10B981"/><circle cx="420" cy="413.2" r="5" fill="#10B981"/><circle cx="540" cy="402" r="5" fill="#10B981"/><circle cx="620" cy="390.8" r="5" fill="#10B981"/><circle cx="740" cy="372.6" r="5" fill="#10B981"/>
+</svg>
