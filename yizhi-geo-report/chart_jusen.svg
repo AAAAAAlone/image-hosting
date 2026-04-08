@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <rect width="600" height="340" fill="#0f172a" rx="12"/>
+  <text x="300" y="35" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="bold" font-family="sans-serif">炬森五金 — 2个月GEO渗透率跃升</text>
+  <text x="300" y="55" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">数据来源：DMAA国际数字营销奖案例</text>
+  
+  <!-- Bar chart area -->
+  <line x1="80" y1="280" x2="560" y2="280" stroke="#334155" stroke-width="1"/>
+  
+  <!-- Bars -->
+  <rect x="110" y="140" width="80" height="140" fill="#ef4444" rx="4"/>
+  <text x="150" y="135" text-anchor="middle" fill="#fca5a5" font-size="13" font-family="sans-serif">10名外</text>
+  <text x="150" y="300" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">优化前</text>
+  
+  <rect x="260" y="104" width="80" height="176" fill="#3b82f6" rx="4"/>
+  <text x="300" y="97" text-anchor="middle" fill="#93c5fd" font-size="16" font-weight="bold" font-family="sans-serif">62.5%</text>
+  <text x="300" y="300" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">渗透率</text>
+  
+  <rect x="410" y="15" width="80" height="265" fill="#22c55e" rx="4"/>
+  <text x="450" y="97" text-anchor="middle" fill="#86efac" font-size="16" font-weight="bold" font-family="sans-serif">94.74%</text>
+  <text x="450" y="300" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">正面提及率</text>
+  
+  <!-- Award badge -->
+  <rect x="160" y="315" width="280" height="20" fill="#f59e0b" rx="10" opacity="0.9"/>
+  <text x="300" y="330" text-anchor="middle" fill="#0f172a" font-size="11" font-weight="bold" font-family="sans-serif">🏆 第九届DMAA国际数字营销GEO优化服务大奖</text>
+</svg>
