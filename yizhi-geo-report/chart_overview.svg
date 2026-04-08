@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <rect width="600" height="300" fill="#0f172a" rx="12"/>
+  <text x="300" y="35" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="bold" font-family="sans-serif">服务能力数据总览</text>
+  
+  <!-- Left: 迁移科技案例 -->
+  <rect x="30" y="55" width="250" height="110" fill="#1e293b" rx="8"/>
+  <text x="155" y="80" text-anchor="middle" fill="#60a5fa" font-size="13" font-weight="bold" font-family="sans-serif">迁移科技（工业3D相机·B2B）</text>
+  <text x="155" y="115" text-anchor="middle" fill="#f8fafc" font-size="32" font-weight="bold" font-family="sans-serif">400+</text>
+  <text x="155" y="140" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">新客SQL高质量线索</text>
+  <text x="155" y="157" text-anchor="middle" fill="#22c55e" font-size="11" font-family="sans-serif">✓ KA客户线上成交</text>
+  
+  <!-- Right: 服务指标 -->
+  <rect x="320" y="55" width="250" height="110" fill="#1e293b" rx="8"/>
+  <text x="445" y="80" text-anchor="middle" fill="#fbbf24" font-size="13" font-weight="bold" font-family="sans-serif">平台服务指标</text>
+  <text x="370" y="108" fill="#94a3b8" font-size="12" font-family="sans-serif">客户NPS</text>
+  <text x="520" y="108" text-anchor="end" fill="#4ade80" font-size="14" font-weight="bold" font-family="sans-serif">80%+</text>
+  <rect x="370" y="113" width="150" height="6" fill="#334155" rx="3"/>
+  <rect x="370" y="113" width="120" height="6" fill="#22c55e" rx="3"/>
+  
+  <text x="370" y="138" fill="#94a3b8" font-size="12" font-family="sans-serif">客户增购率</text>
+  <text x="520" y="138" text-anchor="end" fill="#60a5fa" font-size="14" font-weight="bold" font-family="sans-serif">30%+</text>
+  <rect x="370" y="143" width="150" height="6" fill="#334155" rx="3"/>
+  <rect x="370" y="143" width="45" height="6" fill="#3b82f6" rx="3"/>
+  
+  <text x="370" y="160" fill="#94a3b8" font-size="12" font-family="sans-serif">最长合作</text>
+  <text x="520" y="160" text-anchor="end" fill="#fbbf24" font-size="14" font-weight="bold" font-family="sans-serif">6年+</text>
+  
+  <!-- Bottom: AI搜索趋势 -->
+  <rect x="30" y="185" width="540" height="100" fill="#1e293b" rx="8"/>
+  <text x="300" y="210" text-anchor="middle" fill="#f8fafc" font-size="13" font-weight="bold" font-family="sans-serif">行业趋势</text>
+  
+  <text x="120" y="240" text-anchor="middle" fill="#60a5fa" font-size="11" font-family="sans-serif">Google AI Overview</text>
+  <text x="120" y="258" text-anchor="middle" fill="#93c5fd" font-size="18" font-weight="bold" font-family="sans-serif">50%+</text>
+  <text x="120" y="275" text-anchor="middle" fill="#64748b" font-size="10" font-family="sans-serif">搜索覆盖率</text>
+  
+  <text x="300" y="240" text-anchor="middle" fill="#fbbf24" font-size="11" font-family="sans-serif">百度AI搜索</text>
+  <text x="300" y="258" text-anchor="middle" fill="#fde68a" font-size="18" font-weight="bold" font-family="sans-serif">5亿次</text>
+  <text x="300" y="275" text-anchor="middle" fill="#64748b" font-size="10" font-family="sans-serif">日均调用量</text>
+  
+  <text x="480" y="240" text-anchor="middle" fill="#f87171" font-size="11" font-family="sans-serif">Gartner预测2028</text>
+  <text x="480" y="258" text-anchor="middle" fill="#fca5a5" font-size="18" font-weight="bold" font-family="sans-serif">50%</text>
+  <text x="480" y="275" text-anchor="middle" fill="#64748b" font-size="10" font-family="sans-serif">传统搜索被AI取代</text>
+</svg>
