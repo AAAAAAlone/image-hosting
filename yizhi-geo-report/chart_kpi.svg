@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+  <rect width="600" height="280" fill="#0f172a" rx="12"/>
+  <text x="300" y="35" text-anchor="middle" fill="#f8fafc" font-size="18" font-weight="bold" font-family="sans-serif">易至汽车 GEO 增长路径（12个月预期）</text>
+  
+  <!-- Grid -->
+  <line x1="100" y1="60" x2="100" y2="220" stroke="#334155" stroke-width="0.5"/>
+  <line x1="100" y1="220" x2="550" y2="220" stroke="#334155" stroke-width="0.5"/>
+  <text x="95" y="65" text-anchor="end" fill="#64748b" font-size="10" font-family="sans-serif">50%</text>
+  <text x="95" y="120" text-anchor="end" fill="#64748b" font-size="10" font-family="sans-serif">30%</text>
+  <text x="95" y="170" text-anchor="end" fill="#64748b" font-size="10" font-family="sans-serif">15%</text>
+  <text x="95" y="220" text-anchor="end" fill="#64748b" font-size="10" font-family="sans-serif">0%</text>
+  
+  <!-- AI渗透率 line -->
+  <polyline points="100,212 250,172 400,120 550,60" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="212" r="5" fill="#3b82f6"/>
+  <circle cx="250" cy="172" r="5" fill="#3b82f6"/>
+  <circle cx="400" cy="120" r="5" fill="#3b82f6"/>
+  <circle cx="550" cy="60" r="5" fill="#3b82f6"/>
+  
+  <text x="100" y="238" text-anchor="middle" fill="#94a3b8" font-size="11" font-family="sans-serif">基线</text>
+  <text x="250" y="238" text-anchor="middle" fill="#94a3b8" font-size="11" font-family="sans-serif">3个月</text>
+  <text x="400" y="238" text-anchor="middle" fill="#94a3b8" font-size="11" font-family="sans-serif">6个月</text>
+  <text x="550" y="238" text-anchor="middle" fill="#94a3b8" font-size="11" font-family="sans-serif">12个月</text>
+  
+  <!-- Data labels -->
+  <text x="250" y="165" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="bold" font-family="sans-serif">15%</text>
+  <text x="400" y="113" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="bold" font-family="sans-serif">30%</text>
+  <text x="550" y="53" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="bold" font-family="sans-serif">50%</text>
+  
+  <!-- Legend -->
+  <line x1="150" y1="262" x2="180" y2="262" stroke="#3b82f6" stroke-width="3"/>
+  <text x="185" y="266" fill="#94a3b8" font-size="11" font-family="sans-serif">AI搜索品牌渗透率</text>
+</svg>
