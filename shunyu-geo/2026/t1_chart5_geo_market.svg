@@ -1,0 +1,38 @@
+<svg width="800" height="420" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+  <rect width="800" height="420" fill="#F8FAFC" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#1E293B">GEO（生成式引擎优化）市场规模</text>
+  <text x="400" y="60" text-anchor="middle" font-size="12" fill="#64748B">来源：IntelMarketResearch, DimensionMarketResearch</text>
+  
+    <rect x="100" y="319.6" width="70" height="40.4" fill="#4F46E5" rx="4" opacity="0.6"/>
+    <text x="135" y="309.6" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">10.1</text>
+    <text x="135" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2025</text>
+  
+    <rect x="195" y="308" width="70" height="52" fill="#4F46E5" rx="4" opacity="0.65"/>
+    <text x="230" y="298" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">13</text>
+    <text x="230" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2026</text>
+  
+    <rect x="290" y="288" width="70" height="72" fill="#4F46E5" rx="4" opacity="0.7"/>
+    <text x="325" y="278" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">18</text>
+    <text x="325" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2027</text>
+  
+    <rect x="385" y="260" width="70" height="100" fill="#4F46E5" rx="4" opacity="0.75"/>
+    <text x="420" y="250" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">25</text>
+    <text x="420" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2028</text>
+  
+    <rect x="480" y="224" width="70" height="136" fill="#4F46E5" rx="4" opacity="0.8"/>
+    <text x="515" y="214" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">34</text>
+    <text x="515" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2029</text>
+  
+    <rect x="575" y="168" width="70" height="192" fill="#4F46E5" rx="4" opacity="0.85"/>
+    <text x="610" y="158" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">48</text>
+    <text x="610" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2030</text>
+  
+    <rect x="670" y="67.19999999999999" width="70" height="292.8" fill="#F59E0B" rx="4" opacity="0.9"/>
+    <text x="705" y="57.19999999999999" text-anchor="middle" font-size="11" font-weight="600" fill="#1E293B">73.2</text>
+    <text x="705" y="385" text-anchor="middle" font-size="12" fill="#1E293B">2031</text>
+  
+  <text x="400" y="410" text-anchor="middle" font-size="13" font-weight="600" fill="#F59E0B">CAGR 34%（2025–2031）</text>
+  <text x="400" y="415" text-anchor="middle" font-size="0" fill="#64748B"> </text>
+  <text x="400" y="410" text-anchor="middle" font-size="13" font-weight="600" fill="#F59E0B">CAGR 34%（2025–2031）</text>
+  <text x="720" y="285" text-anchor="end" font-size="12" fill="#64748B">单位：亿美元</text>
+</svg>
