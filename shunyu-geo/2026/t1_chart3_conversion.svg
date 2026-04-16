@@ -1,0 +1,18 @@
+<svg width="800" height="420" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+  <rect width="800" height="420" fill="#F8FAFC" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#1E293B">AI 搜索 vs 传统搜索：转化率对比</text>
+  <text x="400" y="60" text-anchor="middle" font-size="12" fill="#64748B">来源：SuperPrompt, Ahrefs (2025)</text>
+  <!-- Traditional -->
+  <rect x="200" y="120" width="160" height="200" fill="#CBD5E1" rx="8"/>
+  <text x="280" y="110" text-anchor="middle" font-size="16" font-weight="600" fill="#1E293B">Google 有机搜索</text>
+  <text x="280" y="240" text-anchor="middle" font-size="36" font-weight="800" fill="#1E293B">2.8%</text>
+  <text x="280" y="345" text-anchor="middle" font-size="13" fill="#64748B">平均转化率</text>
+  <!-- AI Search -->
+  <rect x="440" y="120" width="160" height="200" fill="#10B981" rx="8"/>
+  <text x="520" y="110" text-anchor="middle" font-size="16" font-weight="600" fill="#1E293B">AI 搜索</text>
+  <text x="520" y="240" text-anchor="middle" font-size="36" font-weight="800" fill="#fff">14.2%</text>
+  <text x="520" y="345" text-anchor="middle" font-size="13" fill="#64748B">平均转化率</text>
+  <!-- Arrow -->
+  <text x="400" y="240" text-anchor="middle" font-size="24" fill="#F59E0B">5×</text>
+  <text x="400" y="395" text-anchor="middle" font-size="12" fill="#64748B">部分场景 AI 搜索转化率高达传统搜索的 23 倍</text>
+</svg>
