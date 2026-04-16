@@ -1,0 +1,55 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+  <rect width="800" height="400" fill="#F8FAFC" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#1E293B">SEO vs GEO：本质区别</text>
+  <line x1="400" y1="60" x2="400" y2="380" stroke="#E2E8F0" stroke-width="2"/>
+  <!-- SEO side -->
+  <rect x="60" y="60" width="330" height="40" fill="#CBD5E1" rx="8"/>
+  <text x="225" y="86" text-anchor="middle" font-size="16" font-weight="700" fill="#1E293B">🔍 传统 SEO</text>
+  
+    <rect x="80" y="115" width="300" height="40" fill="white" rx="6"/>
+    <text x="230" y="140" text-anchor="middle" font-size="13" fill="#1E293B">SERP 排名</text>
+  
+    <rect x="80" y="167" width="300" height="40" fill="white" rx="6"/>
+    <text x="230" y="192" text-anchor="middle" font-size="13" fill="#1E293B">关键词排名、流量</text>
+  
+    <rect x="80" y="219" width="300" height="40" fill="white" rx="6"/>
+    <text x="230" y="244" text-anchor="middle" font-size="13" fill="#1E293B">关键词密度、外链</text>
+  
+    <rect x="80" y="271" width="300" height="40" fill="white" rx="6"/>
+    <text x="230" y="296" text-anchor="middle" font-size="13" fill="#1E293B">大量、早期阶段</text>
+  
+    <rect x="80" y="323" width="300" height="40" fill="white" rx="6"/>
+    <text x="230" y="348" text-anchor="middle" font-size="13" fill="#1E293B">极度内卷</text>
+  
+  <!-- GEO side -->
+  <rect x="410" y="60" width="330" height="40" fill="#10B981" rx="8"/>
+  <text x="575" y="86" text-anchor="middle" font-size="16" font-weight="700" fill="white">🤖 GEO（生成式）</text>
+  
+    <rect x="420" y="115" width="300" height="40" fill="white" rx="6" stroke="#10B981" stroke-width="1"/>
+    <text x="570" y="140" text-anchor="middle" font-size="13" fill="#1E293B">AI 回答中的引用</text>
+  
+    <rect x="420" y="167" width="300" height="40" fill="white" rx="6" stroke="#10B981" stroke-width="1"/>
+    <text x="570" y="192" text-anchor="middle" font-size="13" fill="#1E293B">AI 引用率、推荐率</text>
+  
+    <rect x="420" y="219" width="300" height="40" fill="white" rx="6" stroke="#10B981" stroke-width="1"/>
+    <text x="570" y="244" text-anchor="middle" font-size="13" fill="#1E293B">语义丰富、结构化</text>
+  
+    <rect x="420" y="271" width="300" height="40" fill="white" rx="6" stroke="#10B981" stroke-width="1"/>
+    <text x="570" y="296" text-anchor="middle" font-size="13" fill="#1E293B">精准、决策阶段</text>
+  
+    <rect x="420" y="323" width="300" height="40" fill="white" rx="6" stroke="#10B981" stroke-width="1"/>
+    <text x="570" y="348" text-anchor="middle" font-size="13" fill="#1E293B">蓝海窗口期</text>
+  
+  <!-- Labels -->
+  
+    <text x="30" y="140" text-anchor="middle" font-size="10" fill="#64748B">优化目标</text>
+  
+    <text x="30" y="192" text-anchor="middle" font-size="10" fill="#64748B">核心指标</text>
+  
+    <text x="30" y="244" text-anchor="middle" font-size="10" fill="#64748B">内容策略</text>
+  
+    <text x="30" y="296" text-anchor="middle" font-size="10" fill="#64748B">流量特征</text>
+  
+    <text x="30" y="348" text-anchor="middle" font-size="10" fill="#64748B">竞争程度</text>
+  
+</svg>
