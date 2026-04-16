@@ -1,0 +1,34 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'>
+<rect width='800' height='500' fill='#0f172a' rx='12'/>
+<text x='400' y='40' text-anchor='middle' fill='#e2e8f0' font-size='20' font-weight='bold'>"舜宇"搜索意图分布 — 品牌混淆诊断</text>
+<text x='400' y='62' text-anchor='middle' fill='#94a3b8' font-size='12'>AI搜索中"舜宇"的提及内容分类</text>
+<rect x='100' y='100' width='560' height='60' fill='#334155' rx='8'/>
+<rect x='100' y='100' width='370' height='60' fill='#f97316' rx='8'/>
+<rect x='470' y='100' width='110' height='60' fill='#22d3ee'/>
+<rect x='580' y='100' width='80' height='60' fill='#a78bfa'/>
+<text x='285' y='136' text-anchor='middle' fill='white' font-size='16' font-weight='bold'>手机/消费电子 66%</text>
+<text x='525' y='136' text-anchor='middle' fill='white' font-size='14' font-weight='bold'>车载 20%</text>
+<text x='620' y='136' text-anchor='middle' fill='white' font-size='12' font-weight='bold'>其他</text>
+<rect x='100' y='220' width='220' height='140' fill='#1e293b' rx='8' stroke='#334155'/>
+<text x='210' y='250' text-anchor='middle' fill='#f97316' font-size='16' font-weight='bold'>搜索"舜宇"</text>
+<text x='210' y='278' text-anchor='middle' fill='#e2e8f0' font-size='13'>AI提及率: 33%</text>
+<text x='210' y='300' text-anchor='middle' fill='#94a3b8' font-size='12'>但主要指向手机业务</text>
+<text x='210' y='322' text-anchor='middle' fill='#94a3b8' font-size='12'>车载业务被淹没</text>
+<text x='210' y='344' text-anchor='middle' fill='#f87171' font-size='12'>排名: 5.67</text>
+<rect x='340' y='220' width='220' height='140' fill='#1e293b' rx='8' stroke='#334155'/>
+<text x='450' y='250' text-anchor='middle' fill='#22d3ee' font-size='16' font-weight='bold'>搜索"舜宇车载"</text>
+<text x='450' y='278' text-anchor='middle' fill='#e2e8f0' font-size='13'>AI提及率: 仅3%</text>
+<text x='450' y='300' text-anchor='middle' fill='#94a3b8' font-size='12'>海外AI引用仅36页</text>
+<text x='450' y='322' text-anchor='middle' fill='#94a3b8' font-size='12'>品牌认知严重不足</text>
+<text x='450' y='344' text-anchor='middle' fill='#f87171' font-size='12'>车载营收占集团16%</text>
+<rect x='580' y='220' width='170' height='140' fill='#1e293b' rx='8' stroke='#22d3ee' stroke-width='2'/>
+<text x='665' y='250' text-anchor='middle' fill='#22d3ee' font-size='15' font-weight='bold'>分拆上市</text>
+<text x='665' y='275' text-anchor='middle' fill='#e2e8f0' font-size='12'>舜宇智行IPO</text>
+<text x='665' y='300' text-anchor='middle' fill='#94a3b8' font-size='11'>建立独立品牌</text>
+<text x='665' y='325' text-anchor='middle' fill='#94a3b8' font-size='11'>GEO配合独立</text>
+<text x='665' y='348' text-anchor='middle' fill='#22d3ee' font-size='11'>天时地利!</text>
+<rect x='100' y='390' width='620' height='80' fill='#1e293b' rx='8' stroke='#f87171'/>
+<text x='410' y='418' text-anchor='middle' fill='#f87171' font-size='14' font-weight='bold'>核心问题：车载业务品牌认知被手机业务完全掩盖</text>
+<text x='410' y='442' text-anchor='middle' fill='#e2e8f0' font-size='13'>GEO策略必须围绕"Sunny Automotive"独立品牌建设</text>
+<text x='410' y='462' text-anchor='middle' fill='#94a3b8' font-size='11'>来源：AI搜索实测 + 舜宇光学2024年报</text>
+</svg>
