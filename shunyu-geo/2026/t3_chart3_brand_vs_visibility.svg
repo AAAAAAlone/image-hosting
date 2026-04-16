@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'>
+<rect width='800' height='500' fill='#0f172a' rx='12'/>
+<text x='400' y='40' text-anchor='middle' fill='#e2e8f0' font-size='20' font-weight='bold'>品牌力 vs AI可见度 — 舜宇车载</text>
+<text x='400' y='62' text-anchor='middle' fill='#94a3b8' font-size='12'>核心矛盾：市占率第一，但AI搜索几乎不可见</text>
+<line x1='100' y1='440' x2='750' y2='440' stroke='#334155'/><line x1='100' y1='80' x2='100' y2='440' stroke='#334155'/>
+<text x='425' y='470' text-anchor='middle' fill='#94a3b8' font-size='14'>品牌实力指标</text>
+<circle cx='680' cy='120' r='14' fill='#22d3ee'/><text x='680' y='125' text-anchor='middle' fill='#0f172a' font-size='10' font-weight='bold'>舜宇</text><text x='705' y='115' fill='#94a3b8' font-size='10'>市占率32.3%</text><text x='705' y='129' fill='#f87171' font-size='10'>AI提及率3%</text>
+<circle cx='400' cy='300' r='10' fill='#f97316' opacity='0.8'/><text x='418' y='296' fill='#94a3b8' font-size='10'>联创电子</text>
+<circle cx='350' cy='350' r='10' fill='#a78bfa' opacity='0.8'/><text x='368' y='346' fill='#94a3b8' font-size='10'>欧菲光</text>
+<circle cx='500' cy='200' r='10' fill='#38bdf8' opacity='0.8'/><text x='518' y='196' fill='#94a3b8' font-size='10'>Continental</text>
+<circle cx='450' cy='180' r='10' fill='#38bdf8' opacity='0.8'/><text x='468' y='176' fill='#94a3b8' font-size='10'>Bosch</text>
+<line x1='685' y1='140' x2='685' y2='280' stroke='#f87171' stroke-width='2' stroke-dasharray='5'/>
+<text x='710' y='210' fill='#f87171' font-size='12' font-weight='bold'>AI可见度</text><text x='710' y='226' fill='#f87171' font-size='12' font-weight='bold'>严重断层</text>
+<rect x='550' y='340' width='200' height='80' fill='#1e293b' rx='8' stroke='#f87171'/>
+<text x='650' y='365' text-anchor='middle' fill='#f87171' font-size='13' font-weight='bold'>GEO 机会</text>
+<text x='650' y='385' text-anchor='middle' fill='#e2e8f0' font-size='11'>AI提及率 3% → 30%</text>
+<text x='650' y='405' text-anchor='middle' fill='#22d3ee' font-size='11'>= 10x 增长空间</text>
+</svg>
