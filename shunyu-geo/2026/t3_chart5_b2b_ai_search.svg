@@ -1,0 +1,14 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'>
+<rect width='800' height='500' fill='#0f172a' rx='12'/>
+<text x='400' y='40' text-anchor='middle' fill='#e2e8f0' font-size='20' font-weight='bold'>B2B买家采购搜索行为转变 (2024)</text>
+<text x='400' y='62' text-anchor='middle' fill='#94a3b8' font-size='12'>来源：Forrester、Marketri、行业研究报告</text>
+<text x='75' y='118' text-anchor='end' fill='#e2e8f0' font-size='13'>至少一个阶段使用AI</text><rect x='80' y='103' width='490' height='26' fill='#22d3ee' rx='4' opacity='0.85'/><text x='580' y='122' fill='#e2e8f0' font-size='14' font-weight='bold'>89%</text>
+<text x='75' y='173' text-anchor='end' fill='#e2e8f0' font-size='13'>信任AI推荐</text><rect x='80' y='158' width='495' height='26' fill='#38bdf8' rx='4' opacity='0.85'/><text x='585' y='177' fill='#e2e8f0' font-size='14' font-weight='bold'>90%</text>
+<text x='75' y='228' text-anchor='end' fill='#e2e8f0' font-size='13'>AI为主要发现渠道</text><rect x='80' y='213' width='248' height='26' fill='#818cf8' rx='4' opacity='0.85'/><text x='338' y='232' fill='#e2e8f0' font-size='14' font-weight='bold'>45%</text>
+<text x='75' y='283' text-anchor='end' fill='#e2e8f0' font-size='13'>每周用生成式AI(采购)</text><rect x='80' y='268' width='517' height='26' fill='#a78bfa' rx='4' opacity='0.85'/><text x='607' y='287' fill='#e2e8f0' font-size='14' font-weight='bold'>94%</text>
+<text x='75' y='338' text-anchor='end' fill='#e2e8f0' font-size='13'>80%+营销人每周用AI</text><rect x='80' y='323' width='440' height='26' fill='#c084fc' rx='4' opacity='0.85'/><text x='530' y='342' fill='#e2e8f0' font-size='14' font-weight='bold'>80%</text>
+<text x='75' y='393' text-anchor='end' fill='#e2e8f0' font-size='13'>零点击搜索趋势</text><rect x='80' y='378' width='358' height='26' fill='#f97316' rx='4' opacity='0.85'/><text x='448' y='397' fill='#e2e8f0' font-size='14' font-weight='bold'>65%</text>
+<rect x='80' y='430' width='640' height='50' fill='#1e293b' rx='6' stroke='#22d3ee'/>
+<text x='400' y='452' text-anchor='middle' fill='#22d3ee' font-size='13' font-weight='bold'>趋势：AI搜索正在取代传统搜索，成为B2B供应商发现首选渠道</text>
+<text x='400' y='470' text-anchor='middle' fill='#94a3b8' font-size='11'>90% B2B买家信任AI推荐 — GEO直接影响采购决策</text>
+</svg>
