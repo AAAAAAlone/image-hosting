@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350">
+<rect width="700" height="350" fill="#0f172a" rx="12"/>
+<text x="350" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="white">车载光学 GEO 机会核心数据</text>
+<rect x="30" y="70" width="200" height="110" fill="#1e293b" rx="8"/>
+<text x="130" y="105" text-anchor="middle" font-size="36" font-weight="bold" fill="#60A5FA">37%</text>
+<text x="130" y="130" text-anchor="middle" font-size="12" fill="#94a3b8">舜宇全球市占率</text>
+<text x="130" y="155" text-anchor="middle" font-size="10" fill="#64748b">车载镜头出货量全球第一</text>
+<rect x="250" y="70" width="200" height="110" fill="#1e293b" rx="8"/>
+<text x="350" y="105" text-anchor="middle" font-size="36" font-weight="bold" fill="#34D399">3.85亿</text>
+<text x="350" y="130" text-anchor="middle" font-size="12" fill="#94a3b8">2025年全球出货量</text>
+<text x="350" y="155" text-anchor="middle" font-size="10" fill="#64748b">车载摄像头（颗）</text>
+<rect x="470" y="70" width="200" height="110" fill="#1e293b" rx="8"/>
+<text x="570" y="105" text-anchor="middle" font-size="36" font-weight="bold" fill="#FBBF24">86.8%</text>
+<text x="570" y="130" text-anchor="middle" font-size="12" fill="#94a3b8">中国新能源车L2+渗透率</text>
+<text x="570" y="155" text-anchor="middle" font-size="10" fill="#64748b">2025年1-8月数据</text>
+<rect x="30" y="200" width="200" height="110" fill="#1e293b" rx="8"/>
+<text x="130" y="235" text-anchor="middle" font-size="36" font-weight="bold" fill="#F472B6">&lt;5%</text>
+<text x="130" y="260" text-anchor="middle" font-size="12" fill="#94a3b8">行业GEO内容覆盖率</text>
+<text x="130" y="285" text-anchor="middle" font-size="10" fill="#64748b">几乎所有关键词空白</text>
+<rect x="250" y="200" width="200" height="110" fill="#1e293b" rx="8"/>
+<text x="350" y="235" text-anchor="middle" font-size="36" font-weight="bold" fill="#A78BFA">330亿</text>
+<text x="350" y="260" text-anchor="middle" font-size="12" fill="#94a3b8">中国车载镜头市场</text>
+<text x="350" y="285" text-anchor="middle" font-size="10" fill="#64748b">2025年规模（人民币）</text>
+<rect x="470" y="200" width="200" height="110" fill="#1e293b" rx="8"/>
+<text x="570" y="235" text-anchor="middle" font-size="36" font-weight="bold" fill="#FB923C">60%</text>
+<text x="570" y="260" text-anchor="middle" font-size="12" fill="#94a3b8">B2B采购在线调研占比</text>
+<text x="570" y="285" text-anchor="middle" font-size="10" fill="#64748b">AI搜索正在重塑决策链</text>
+<text x="350" y="340" text-anchor="middle" font-size="11" fill="#475569">Data sources: wallstreetcn.com, huaon.com, China EV Home, ThomasNet, Research Nester</text>
+</svg>
