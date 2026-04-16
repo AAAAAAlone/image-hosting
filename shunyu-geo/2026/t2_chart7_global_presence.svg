@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350" font-family="Arial, sans-serif">
+    <rect width="700" height="350" rx="12" fill="#fafafa"/>
+    <text x="350" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">舜宇车载 全球化布局一览</text>
+    <text x="350" y="48" text-anchor="middle" font-size="11" fill="#999">Source: Sunny Optical年报 FY2025, 弗若斯特沙利文</text>
+    
+    <!-- Card 1 -->
+    <rect x="30" y="70" width="200" height="120" rx="8" fill="white" stroke="#e74c3c" stroke-width="2"/>
+    <text x="130" y="100" text-anchor="middle" font-size="28" font-weight="bold" fill="#e74c3c">73.3亿</text>
+    <text x="130" y="120" text-anchor="middle" font-size="12" fill="#666">FY2025车载业务收入(¥)</text>
+    <text x="130" y="140" text-anchor="middle" font-size="11" fill="#27ae60">↑ YoY +21.3%</text>
+    <text x="130" y="160" text-anchor="middle" font-size="11" fill="#999">占总收入17%</text>
+    
+    <!-- Card 2 -->
+    <rect x="250" y="70" width="200" height="120" rx="8" fill="white" stroke="#3498db" stroke-width="2"/>
+    <text x="350" y="100" text-anchor="middle" font-size="28" font-weight="bold" fill="#3498db">8/10</text>
+    <text x="350" y="120" text-anchor="middle" font-size="12" fill="#666">覆盖全球Top10 Tier1</text>
+    <text x="350" y="140" text-anchor="middle" font-size="12" fill="#666">19/20 全球Top20车企</text>
+    <text x="350" y="160" text-anchor="middle" font-size="11" fill="#999">Benz/BMW/Audi/Toyota…</text>
+    
+    <!-- Card 3 -->
+    <rect x="470" y="70" width="200" height="120" rx="8" fill="white" stroke="#2ecc71" stroke-width="2"/>
+    <text x="570" y="100" text-anchor="middle" font-size="28" font-weight="bold" fill="#2ecc71">1亿+</text>
+    <text x="570" y="120" text-anchor="middle" font-size="12" fill="#666">2024年镜头出货量(套)</text>
+    <text x="570" y="140" text-anchor="middle" font-size="11" fill="#27ae60">首次突破1亿大关</text>
+    <text x="570" y="160" text-anchor="middle" font-size="11" fill="#999">YoY +12.7%</text>
+    
+    <!-- Bottom: Global offices -->
+    <rect x="30" y="210" width="640" height="110" rx="8" fill="white" stroke="#ddd"/>
+    <text x="350" y="235" text-anchor="middle" font-size="14" font-weight="bold" fill="#2c3e50">全球营销与技术支持网络</text>
+    <text x="350" y="260" text-anchor="middle" font-size="12" fill="#666">🇺🇸 美国 ｜ 🇯🇵 日本 ｜ 🇰🇷 韩国 ｜ 🇸🇬 新加坡 ｜ 🇹🇼 台湾 ｜ 🇩🇪 德国（深耕欧洲）</text>
+    <text x="350" y="285" text-anchor="middle" font-size="12" fill="#666">参展 IAA Mobility（德国）｜ CES（美国）等全球展会</text>
+    <text x="350" y="305" text-anchor="middle" font-size="12" fill="#e74c3c">⚠️ 海外AI搜索（Google/AI Overview）品牌内容建设几乎空白 — 巨大GEO机会</text>
+  </svg>
