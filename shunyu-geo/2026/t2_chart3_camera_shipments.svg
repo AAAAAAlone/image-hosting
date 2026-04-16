@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#f8fafc" rx="8"/>
+<text x="300" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f172a">全球车载摄像头出货量（亿颗）</text>
+<rect x="112.66666666666666" y="156.39999999999998" width="58.8" height="83.60000000000001" fill="#2563EB" rx="4"/>
+<text x="142.06666666666666" y="148.39999999999998" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">2.2</text>
+<text x="142.06666666666666" y="260" text-anchor="middle" font-size="12" fill="#64748b">2022</text>
+<rect x="204.13333333333333" y="126" width="58.8" height="114" fill="#2563EB" rx="4"/>
+<text x="233.53333333333333" y="118" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">3</text>
+<text x="233.53333333333333" y="260" text-anchor="middle" font-size="12" fill="#64748b">2023</text>
+<rect x="295.6" y="110.80000000000001" width="58.8" height="129.2" fill="#2563EB" rx="4"/>
+<text x="325" y="102.80000000000001" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">3.4</text>
+<text x="325" y="260" text-anchor="middle" font-size="12" fill="#64748b">2024</text>
+<rect x="387.0666666666666" y="93.69999999999999" width="58.8" height="146.3" fill="#2563EB" rx="4"/>
+<text x="416.4666666666666" y="85.69999999999999" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">3.85</text>
+<text x="416.4666666666666" y="260" text-anchor="middle" font-size="12" fill="#64748b">2025E</text>
+<rect x="478.5333333333333" y="50" width="58.8" height="190" fill="#2563EB" rx="4"/>
+<text x="507.9333333333333" y="42" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">5</text>
+<text x="507.9333333333333" y="260" text-anchor="middle" font-size="12" fill="#64748b">2027E</text>
+<text x="300" y="330" text-anchor="middle" font-size="10" fill="#94a3b8">Source: Fortune Business Insights, Mordor Intelligence</text>
+</svg>
