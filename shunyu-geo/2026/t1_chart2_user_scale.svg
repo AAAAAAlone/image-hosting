@@ -1,0 +1,27 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+  <rect width="800" height="400" fill="#F8FAFC" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#1E293B">AI 应用月活用户规模（亿，2025.12）</text>
+  <text x="400" y="60" text-anchor="middle" font-size="12" fill="#64748B">来源：199IT, DemandSage, 各平台财报</text>
+  
+    <text x="120" y="105" text-anchor="end" font-size="14" font-weight="600" fill="#1E293B">ChatGPT</text>
+    <rect x="130" y="90" width="560" height="32" fill="#4F46E5" rx="4"/>
+    <text x="700" y="112" font-size="14" font-weight="700" fill="#1E293B">4亿</text>
+  
+    <text x="120" y="163" text-anchor="end" font-size="14" font-weight="600" fill="#1E293B">豆包</text>
+    <rect x="130" y="148" width="316.4" height="32" fill="#10B981" rx="4"/>
+    <text x="456.4" y="170" font-size="14" font-weight="700" fill="#1E293B">2.26亿</text>
+  
+    <text x="120" y="221" text-anchor="end" font-size="14" font-weight="600" fill="#1E293B">DeepSeek</text>
+    <rect x="130" y="206" width="190.4" height="32" fill="#06B6D4" rx="4"/>
+    <text x="330.4" y="228" font-size="14" font-weight="700" fill="#1E293B">1.36亿</text>
+  
+    <text x="120" y="279" text-anchor="end" font-size="14" font-weight="600" fill="#1E293B">Kimi</text>
+    <rect x="130" y="264" width="112" height="32" fill="#F59E0B" rx="4"/>
+    <text x="252" y="286" font-size="14" font-weight="700" fill="#1E293B">0.8亿</text>
+  
+    <text x="120" y="337" text-anchor="end" font-size="14" font-weight="600" fill="#1E293B">通义千问</text>
+    <rect x="130" y="322" width="84" height="32" fill="#EC4899" rx="4"/>
+    <text x="224" y="344" font-size="14" font-weight="700" fill="#1E293B">0.6亿</text>
+  
+  <text x="400" y="385" text-anchor="middle" font-size="11" fill="#64748B">合计超 9 亿月活，ChatGPT 按周活 4 亿估算</text>
+</svg>
