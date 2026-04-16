@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 310">
+<rect width="600" height="310" fill="#f8fafc" rx="8"/>
+<text x="300" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f172a">全球车载镜头市场份额（2024）</text>
+<text x="110" y="71" text-anchor="end" font-size="13" fill="#334155">舜宇光学</text>
+<rect x="120" y="50" width="450" height="32" fill="#2563EB" rx="4"/>
+<text x="578" y="71" font-size="13" font-weight="bold" fill="#1e293b">37%</text>
+<text x="110" y="115" text-anchor="end" font-size="13" fill="#334155">日本电产/日韩</text>
+<rect x="120" y="94" width="340.5405405405406" height="32" fill="#3B82F6" rx="4"/>
+<text x="468.5405405405406" y="115" font-size="13" font-weight="bold" fill="#1e293b">~28%</text>
+<text x="110" y="159" text-anchor="end" font-size="13" fill="#334155">欧菲光</text>
+<rect x="120" y="138" width="97.2972972972973" height="32" fill="#60A5FA" rx="4"/>
+<text x="225.2972972972973" y="159" font-size="13" font-weight="bold" fill="#1e293b">~8%</text>
+<text x="110" y="203" text-anchor="end" font-size="13" fill="#334155">联创电子</text>
+<rect x="120" y="182" width="85.13513513513514" height="32" fill="#93C5FD" rx="4"/>
+<text x="213.13513513513516" y="203" font-size="13" font-weight="bold" fill="#1e293b">~7%</text>
+<text x="110" y="247" text-anchor="end" font-size="13" fill="#334155">大立光/其他</text>
+<rect x="120" y="226" width="243.24324324324326" height="32" fill="#CBD5E1" rx="4"/>
+<text x="371.2432432432432" y="247" font-size="13" font-weight="bold" fill="#1e293b">~20%</text>
+<text x="300" y="302" text-anchor="middle" font-size="10" fill="#94a3b8">Source: wallstreetcn.com, huaon.com</text>
+</svg>
