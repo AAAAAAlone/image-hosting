@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 420" font-family="Arial, sans-serif">
+    <rect width="750" height="420" rx="12" fill="#fafafa"/>
+    <text x="375" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c3e50">车载光学行业 GEO 机会矩阵</text>
+    <text x="375" y="48" text-anchor="middle" font-size="11" fill="#999">AI搜索关键词 × 行业术语覆盖分析 | 2026.04 实测</text>
+    
+    <!-- Axes -->
+    <line x1="100" y1="350" x2="680" y2="350" stroke="#ccc" stroke-width="1"/>
+    <line x1="100" y1="70" x2="100" y2="350" stroke="#ccc" stroke-width="1"/>
+    <text x="390" y="390" text-anchor="middle" fill="#666" font-size="12">搜索量 / 采购决策权重 →</text>
+    <text x="40" y="210" text-anchor="middle" fill="#666" font-size="12" transform="rotate(-90,40,210)">AI搜索内容空白度 →</text>
+    
+    <!-- Quadrants -->
+    <rect x="100" y="70" width="290" height="140" fill="#e74c3c" opacity="0.05"/>
+    <rect x="390" y="70" width="290" height="140" fill="#f39c12" opacity="0.05"/>
+    <rect x="100" y="210" width="290" height="140" fill="#95a5a6" opacity="0.05"/>
+    <rect x="390" y="210" width="290" height="140" fill="#27ae60" opacity="0.05"/>
+    
+    <text x="245" y="92" text-anchor="middle" fill="#e74c3c" font-size="11" font-weight="bold">🔥 紧急优先</text>
+    <text x="535" y="92" text-anchor="middle" fill="#f39c12" font-size="11" font-weight="bold">⭐ 高价值</text>
+    <text x="245" y="232" text-anchor="middle" fill="#95a5a6" font-size="11" font-weight="bold">📊 低优先</text>
+    <text x="535" y="232" text-anchor="middle" fill="#27ae60" font-size="11" font-weight="bold">✅ 已有基础</text>
+    
+    <!-- Data points -->
+    <!-- 高搜索量, 高空白 = 紧急优先 -->
+    <circle cx="220" cy="130" r="22" fill="#e74c3c" opacity="0.7"/><text x="220" y="134" text-anchor="middle" fill="white" font-size="9" font-weight="bold">车载镜头</text><text x="220" y="160" text-anchor="middle" fill="#e74c3c" font-size="9">哪家好</text>
+    
+    <circle cx="320" cy="110" r="20" fill="#e74c3c" opacity="0.7"/><text x="320" y="114" text-anchor="middle" fill="white" font-size="9" font-weight="bold">ADAS摄像头</text><text x="320" y="140" text-anchor="middle" fill="#e74c3c" font-size="9">供应商</text>
+    
+    <circle cx="170" cy="165" r="18" fill="#e74c3c" opacity="0.6"/><text x="170" y="169" text-anchor="middle" fill="white" font-size="8" font-weight="bold">车载模组</text>
+    
+    <!-- 高搜索量, 低空白 -->
+    <circle cx="500" cy="160" r="20" fill="#f39c12" opacity="0.7"/><text x="500" y="164" text-anchor="middle" fill="white" font-size="9" font-weight="bold">舜宇光学</text><text x="500" y="190" text-anchor="middle" fill="#f39c12" font-size="9">品牌词</text>
+    
+    <!-- 低搜索量, 高空白 -->
+    <circle cx="200" cy="280" r="16" fill="#95a5a6" opacity="0.6"/><text x="200" y="284" text-anchor="middle" fill="white" font-size="8">玻塑混合</text>
+    
+    <circle cx="280" cy="300" r="15" fill="#95a5a6" opacity="0.6"/><text x="280" y="304" text-anchor="middle" fill="white" font-size="8">800万像素</text>
+    
+    <!-- 低搜索量, 低空白 -->
+    <circle cx="500" cy="290" r="16" fill="#27ae60" opacity="0.6"/><text x="500" y="294" text-anchor="middle" fill="white" font-size="8">镜头参数</text>
+    
+    <circle cx="580" cy="260" r="14" fill="#27ae60" opacity="0.6"/><text x="580" y="264" text-anchor="middle" fill="white" font-size="7">车规认证</text>
+    
+    <!-- English keywords -->
+    <circle cx="140" cy="100" r="19" fill="#e74c3c" opacity="0.8"/><text x="140" y="104" text-anchor="middle" fill="white" font-size="8" font-weight="bold">ADAS camera</text><text x="140" y="130" text-anchor="middle" fill="#e74c3c" font-size="8">manufacturer</text>
+    
+    <circle cx="450" cy="100" r="17" fill="#f39c12" opacity="0.7"/><text x="450" y="104" text-anchor="middle" fill="white" font-size="8" font-weight="bold">automotive</text><text x="450" y="128" text-anchor="middle" fill="#f39c12" font-size="8">lens market</text>
+    
+    <text x="375" y="410" text-anchor="middle" font-size="11" fill="#e74c3c">结论：车载光学行业在AI搜索中内容极度匮乏，采购决策链路中存在巨大的GEO先发机会</text>
+  </svg>
