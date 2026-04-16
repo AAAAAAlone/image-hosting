@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#f8fafc" rx="8"/>
+<text x="300" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f172a">全球车载镜头市场规模（亿美元）</text>
+<rect x="112.66666666666666" y="105.41666666666666" width="58.8" height="134.58333333333334" fill="#2563EB" rx="4"/>
+<text x="142.06666666666666" y="97.41666666666666" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">17</text>
+<text x="142.06666666666666" y="260" text-anchor="middle" font-size="12" fill="#64748b">2023</text>
+<rect x="204.13333333333333" y="99.875" width="58.8" height="140.125" fill="#2563EB" rx="4"/>
+<text x="233.53333333333333" y="91.875" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">17.7</text>
+<text x="233.53333333333333" y="260" text-anchor="middle" font-size="12" fill="#64748b">2024</text>
+<rect x="295.6" y="72.95833333333331" width="58.8" height="167.04166666666669" fill="#2563EB" rx="4"/>
+<text x="325" y="64.95833333333331" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">21.1</text>
+<text x="325" y="260" text-anchor="middle" font-size="12" fill="#64748b">2025E</text>
+<rect x="387.0666666666666" y="61.875" width="58.8" height="178.125" fill="#2563EB" rx="4"/>
+<text x="416.4666666666666" y="53.875" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">22.5</text>
+<text x="416.4666666666666" y="260" text-anchor="middle" font-size="12" fill="#64748b">2026E</text>
+<rect x="478.5333333333333" y="50" width="58.8" height="190" fill="#2563EB" rx="4"/>
+<text x="507.9333333333333" y="42" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">24</text>
+<text x="507.9333333333333" y="260" text-anchor="middle" font-size="12" fill="#64748b">2027E</text>
+<text x="300" y="330" text-anchor="middle" font-size="10" fill="#94a3b8">Source: Business Research Insights, icsmart.cn</text>
+</svg>
