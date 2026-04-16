@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#f8fafc" rx="8"/>
+<text x="300" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f172a">不同自动驾驶等级单车摄像头数量</text>
+<rect x="112.66666666666666" y="216.25" width="58.8" height="23.75" fill="#2563EB" rx="4"/>
+<text x="142.06666666666666" y="208.25" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">2颗</text>
+<text x="142.06666666666666" y="260" text-anchor="middle" font-size="12" fill="#64748b">L1</text>
+<rect x="204.13333333333333" y="168.75" width="58.8" height="71.25" fill="#2563EB" rx="4"/>
+<text x="233.53333333333333" y="160.75" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">5-8颗</text>
+<text x="233.53333333333333" y="260" text-anchor="middle" font-size="12" fill="#64748b">L2</text>
+<rect x="295.6" y="145" width="58.8" height="95" fill="#2563EB" rx="4"/>
+<text x="325" y="137" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">8颗</text>
+<text x="325" y="260" text-anchor="middle" font-size="12" fill="#64748b">L2+</text>
+<rect x="387.0666666666666" y="109.375" width="58.8" height="130.625" fill="#2563EB" rx="4"/>
+<text x="416.4666666666666" y="101.375" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">11颗</text>
+<text x="416.4666666666666" y="260" text-anchor="middle" font-size="12" fill="#64748b">L3</text>
+<rect x="478.5333333333333" y="50" width="58.8" height="190" fill="#2563EB" rx="4"/>
+<text x="507.9333333333333" y="42" text-anchor="middle" font-size="13" font-weight="bold" fill="#1e293b">12-20颗</text>
+<text x="507.9333333333333" y="260" text-anchor="middle" font-size="12" fill="#64748b">L4/L5</text>
+<text x="300" y="330" text-anchor="middle" font-size="10" fill="#94a3b8">Source: Research Nester, Yole</text>
+</svg>
